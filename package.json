@@ -1,0 +1,14 @@
+{
+  "name": "dotenvtest",
+  "version": "1.0.0",
+  "description": "dot env exo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "moi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
